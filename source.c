@@ -9,7 +9,7 @@ main() {
 	int strike = 0, ball = 0; //스트라이크,볼의 개수 초기화 상태 
 	int a = 0, b = 0, yes = 0; //난수와 입력받은 수의 배열을 for문 계산시 필요한 변수 
 	int menu = 0; //메뉴와 시스템 on/off를 위한 while문에 포함되는 변수 
-	int count = 0;//
+	int count = 0;//사용자의 시도횟수를 세기 위한 변수
 
 	do 
 	{//do {부터 포함된 부분에 do-while문 적용 
